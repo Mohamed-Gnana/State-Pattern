@@ -1,0 +1,10 @@
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\bin\Debug\netstandard2.1\StatePattern.Pattern.deps.json
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\bin\Debug\netstandard2.1\StatePattern.Pattern.dll
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\bin\Debug\netstandard2.1\StatePattern.Pattern.pdb
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\obj\Debug\netstandard2.1\StatePattern.Pattern.csproj.AssemblyReference.cache
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\obj\Debug\netstandard2.1\StatePattern.Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\obj\Debug\netstandard2.1\StatePattern.Pattern.AssemblyInfoInputs.cache
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\obj\Debug\netstandard2.1\StatePattern.Pattern.AssemblyInfo.cs
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\obj\Debug\netstandard2.1\StatePattern.Pattern.csproj.CoreCompileInputs.cache
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\obj\Debug\netstandard2.1\StatePattern.Pattern.dll
+D:\Gnana_Projects\StatePattern\StatePattern.Pattern\obj\Debug\netstandard2.1\StatePattern.Pattern.pdb

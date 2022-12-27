@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StatePattern.Factory/1.0.0": {
+        "dependencies": {
+          "StatePattern.Pattern": "1.0.0"
+        },
+        "runtime": {
+          "StatePattern.Factory.dll": {}
+        }
+      },
+      "StatePattern.Pattern/1.0.0": {
+        "runtime": {
+          "StatePattern.Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StatePattern.Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StatePattern.Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

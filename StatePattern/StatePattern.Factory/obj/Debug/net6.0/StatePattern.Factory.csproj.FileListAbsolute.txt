@@ -1,0 +1,15 @@
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\bin\Debug\net6.0\StatePattern.Factory.deps.json
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\bin\Debug\net6.0\StatePattern.Factory.dll
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\bin\Debug\net6.0\StatePattern.Factory.pdb
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\bin\Debug\net6.0\StatePattern.Pattern.dll
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\bin\Debug\net6.0\StatePattern.Pattern.pdb
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\StatePattern.Factory.csproj.AssemblyReference.cache
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\StatePattern.Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\StatePattern.Factory.AssemblyInfoInputs.cache
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\StatePattern.Factory.AssemblyInfo.cs
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\StatePattern.Factory.csproj.CoreCompileInputs.cache
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\StatePattern.Factory.csproj.CopyComplete
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\StatePattern.Factory.dll
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\refint\StatePattern.Factory.dll
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\StatePattern.Factory.pdb
+D:\Gnana_Projects\StatePattern\StatePattern.Factory\obj\Debug\net6.0\ref\StatePattern.Factory.dll
